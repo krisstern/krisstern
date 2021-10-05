@@ -1,5 +1,5 @@
 # Hello, world!
-I’m Kris Stern. I am currently engaged in video analytics engineering work. 
+I’m Kris Stern. I am currently engaged in video analytics engineering work. I maintain a Medium blog for work at https://krisstern.medium.com/
 
 <img src="https://raw.githubusercontent.com/krisstern/krisstern/main/andrew_benson_art.gif" width="60%" height="60%">
 
