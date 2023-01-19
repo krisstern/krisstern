@@ -1,5 +1,5 @@
 # Hello, world!
-I’m Kris Stern, with a PhD in Physics/Astrophysics from the University of Hong Kong (HKU). I am a software engineer / Senior Consultant in Video Analytics at an Information Technology company headquarted in Singapore, and I am based in Hong Kong. I maintain a Medium blog at https://krisstern.medium.com/.
+I’m Kris Stern, with a PhD in Physics/Astrophysics from the University of Hong Kong (HKU). I am a software engineer based in Hong Kong. I maintain a Medium blog at https://krisstern.medium.com/.
 
 I started volunteering for the Jenkins project, most notably in the Google Summer of Code (GSoC) Special Interest Group in January 2022. Here is [my short bio](https://www.jenkins.io/blog/authors/krisstern/) at the Jenkins site.
 
