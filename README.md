@@ -5,9 +5,47 @@ I started volunteering for the Jenkins project, most notably in the Google Summe
 
 I have also adopted the Jenkins [Build Timeout Plugin](https://github.com/jenkinsci/build-timeout-plugin) as a maintainer as of February 2022 and the Jenkins [GitLab Plugin](https://github.com/jenkinsci/gitlab-plugin) as a maintainer as of January 2023. 
 
-As of August 2022, I have also started a side project to satisfy my interest in modern physics called the "Physics Vault". More details can be found at the GitHub Pages site at [https://physics-vault.github.io/](https://physics-vault.github.io/). This focuses primarily on my journey as I work through some undergraduate/graduate level textbooks on modern physics, including the problem sets. 
+As of August 2022, I have also started a side project to satisfy my interest in modern physics called the "Physics Vault". More details can be found at the GitHub Pages site at [https://physics-vault.github.io/](https://physics-vault.github.io/). This focuses primarily on my journey as I work through some undergraduate/graduate level textbooks on modern physics, including the problem sets.
 
-<img src="https://raw.githubusercontent.com/krisstern/krisstern/main/andrew_benson_art.gif" width="60%" height="60%">
+<br />
+
+<!-- ![Kris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krisstern&count_private=true&show_icons=true&theme=gruvbox) -->
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=krisstern&count_private=true&show_icons=true&theme=gruvbox"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=krisstern&count_private=true&show_icons=true&theme=gruvbox_light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=krisstern&show_icons=true" />
+  </picture>
+</div>
+
+<br />
+
+<!-- [![Kris's GitHub Streak](https://streak-stats.demolab.com/?user=krisstern&theme=gruvbox)](https://git.io/streak-stats) -->
+<div align="center">
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com/?user=krisstern&theme=gruvbox"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com/?user=krisstern&theme=gruvbox_light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://streak-stats.demolab.com/?user=krisstern" />
+  </picture>
+</div>
+
+<br />
+ 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/krisstern/krisstern/main/andrew_benson_art.gif" width="60%" height="60%">
+</div>
 
 <!---
 krisstern/krisstern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
