@@ -7,6 +7,8 @@ I have also adopted the Jenkins [Build Timeout Plugin](https://github.com/jenkin
 
 As of August 2022, I have also started a side project to satisfy my interest in modern physics called the "Physics Vault". More details can be found at the GitHub Pages site at [https://physics-vault.github.io/](https://physics-vault.github.io/). This focuses primarily on my journey as I work through some undergraduate/graduate level textbooks on modern physics, including the problem sets.
 
+I have an account on [Mastodon](https://mastodon.social/). You are welcome to follow me at https://mastodon.social/@krisstern where I occasionally share my software engineering escapades there. 
+
 <br />
 
 <!-- ![Kris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krisstern&count_private=true&show_icons=true&theme=gruvbox) -->
