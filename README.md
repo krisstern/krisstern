@@ -1,7 +1,8 @@
 # Hello, world!
 I’m Kris Stern, with a PhD in Physics/Astrophysics from the University of Hong Kong (HKU). I am a software engineer based in Hong Kong. <!--I maintain a Medium blog at https://krisstern.medium.com/. -->
 
-I started volunteering for the Jenkins project, most notably in the Google Summer of Code (GSoC) Special Interest Group in January 2022. Here is [my short bio](https://www.jenkins.io/blog/authors/krisstern/) at the Jenkins site.
+I started volunteering for the Jenkins project, most notably in the Google Summer of Code (GSoC) Special Interest Group since January 2022. 
+<!-- Here is [my short bio](https://www.jenkins.io/blog/authors/krisstern/) at the Jenkins site. -->
 
 I have also adopted the Jenkins [Build Timeout Plugin](https://github.com/jenkinsci/build-timeout-plugin) as a maintainer as of February 2022 and the Jenkins [GitLab Plugin](https://github.com/jenkinsci/gitlab-plugin) as a maintainer as of January 2023. 
 
