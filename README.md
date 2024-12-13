@@ -1,5 +1,5 @@
 # Hello, world!
-I’m Kris Stern, with a PhD in Physics/Astrophysics from the University of Hong Kong (HKU). I am a software engineer based in Hong Kong. <!--I maintain a Medium blog at https://krisstern.medium.com/. -->
+I’m Kris Stern, with a PhD in Physics/Astrophysics from the University of Hong Kong (HKU). I am professionally a Software Engineer based in Hong Kong. <!--I maintain a Medium blog at https://krisstern.medium.com/. -->
 
 I started volunteering for the Jenkins project, most notably in the Google Summer of Code (GSoC) Special Interest Group since January 2022. 
 I am an org admin for the Google Summer of Code (GSoc) program at Jenkins since 2021, and have either lead mentored or co-mentored numerous projects successfully since I started mentoring. 
