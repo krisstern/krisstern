@@ -31,7 +31,7 @@ I have an account on [Mastodon](https://mastodon.social/). You are welcome to fo
 <br />
 
 <!-- [![Kris's GitHub Streak](https://streak-stats.demolab.com/?user=krisstern&theme=gruvbox)](https://git.io/streak-stats) -->
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source
       srcset="https://streak-stats.demolab.com/?user=krisstern&theme=gruvbox"
@@ -43,7 +43,7 @@ I have an account on [Mastodon](https://mastodon.social/). You are welcome to fo
     />
     <img src="https://streak-stats.demolab.com/?user=krisstern" />
   </picture>
-</div>
+</div> -->
 
 <br />
  
