@@ -49,7 +49,7 @@ I have an account on [Mastodon](https://mastodon.social/). You are welcome to fo
  
 <div align="center">
 <!--   <img src="https://raw.githubusercontent.com/krisstern/krisstern/main/andrew_benson_art.gif" width="60%" height="60%"> -->
-  <img src="https://raw.githubusercontent.com/krisstern/krisstern/refs/heads/main/S9Ed.gif" width="50%" height="50%">
+  <img src="https://raw.githubusercontent.com/krisstern/krisstern/refs/heads/main/S9Ed.gif" width="50%">
 </div>
 
 <!---
