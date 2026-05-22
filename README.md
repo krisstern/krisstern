@@ -24,7 +24,7 @@ I have an account on [Mastodon](https://mastodon.social/). You are welcome to fo
       srcset="https://github-readme-stats.vercel.app/api?username=krisstern&count_private=true&show_icons=true&theme=gruvbox_light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=krisstern&show_icons=true" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=krisstern" alt="Kris's GitHub Streak" /></a>
   </picture>
 </div>
 
